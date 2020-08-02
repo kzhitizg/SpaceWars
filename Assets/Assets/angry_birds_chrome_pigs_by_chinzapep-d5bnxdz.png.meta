@@ -1,0 +1,1233 @@
+fileFormatVersion: 2
+guid: fafeb8aea0b9a0c48b71536f934992da
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_0
+    21300002: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_1
+    21300004: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_2
+    21300006: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_3
+    21300008: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_4
+    21300010: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_5
+    21300012: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_6
+    21300014: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_7
+    21300016: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_8
+    21300018: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_9
+    21300020: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_10
+    21300022: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_11
+    21300024: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_12
+    21300026: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_13
+    21300028: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_14
+    21300030: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_15
+    21300032: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_16
+    21300034: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_17
+    21300036: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_18
+    21300038: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_19
+    21300040: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_20
+    21300042: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_21
+    21300044: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_22
+    21300046: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_23
+    21300048: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_24
+    21300050: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_25
+    21300052: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_26
+    21300054: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_27
+    21300056: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_28
+    21300058: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_29
+    21300060: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_30
+    21300062: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_31
+    21300064: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_32
+    21300066: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_33
+    21300068: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_34
+    21300070: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_35
+    21300072: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_36
+    21300074: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_37
+    21300076: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_38
+    21300078: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_39
+    21300080: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_40
+    21300082: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_41
+    21300084: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_42
+    21300086: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_43
+    21300088: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_44
+    21300090: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_45
+    21300092: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_46
+    21300094: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_47
+    21300096: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_48
+    21300098: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_49
+    21300100: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_50
+    21300102: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_51
+    21300104: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_52
+    21300106: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_53
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 589
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d13fd489ad17bd4cae915549700b666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 589
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeebefbf3c69564ebe96daa393d7eb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 589
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae18da080e0a8479d0207384f8adbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 589
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd57840da33ba6428e8bf05c71d30c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 589
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12312fb13916c44b781bbafcae57b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 590
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4386e67318bde04689a9339c427b9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734b8e05321f1a34890a7858e4a3f65d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 476
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813daa97432a5774689b7859025eaa1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 482
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395bf681bc2e8574e8f2fe6fc0c8c3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 482
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068f64fa351dc746821dce81c60c77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 482
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2596a5fa52dc4583e55206e60d1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 485
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d895421a1334ab5172778f8cbaf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 506
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82557d84040bf5b4989dd4ccae45c0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 370
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce6be3a611a7941a04f0905c41142d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 373
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d952d611f29804da7c50b42aa874bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 373
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b960d0d61419ac48a54e56ab3c3dc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 373
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547bbbddbc94eb149a2f218b4626de9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 373
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b91e88e01cb1d4e9952f140c01e1c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 373
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2979c121bc145ee4c906e79a9171d1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 425
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e3d577a0920234590bc7f2f8406710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a0bbbc441d33e4a907f73f5018aa77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 375
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53444c0b9cd430e4d8ec8bd853c6bcd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a6a9457cffa340baf7aa0e3f46560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 269
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0699362c9f04d843aafffc7b6682e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 280
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c38db43e2d0784f9296ea5112fccba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 280
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d53d441a2ce42489e80a6f718a5bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 280
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea3bc1d9bd08e4c8341b0960ebee07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 280
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e96f419fa86b478fefe29f7be30fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e91c997190d74393ba220665bbe67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 144
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7276b8d1f6784e40aed32396a9e3515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 165
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f4a36feae56064c970feacb5c53127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 188
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329f20c1a0cb5142849491112ca1a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 188
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b94bc2ddea25540aadd5a07c5a0293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 198
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd5de4964b2bfc4486b189d75a9c2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_34
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 198
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965adc1ebd6b8364bab2b171256199b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_35
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 198
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c801ced761c74598ae70f7ea5b054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f29d2d0deb8044593883884599c418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef2b5c1ba9adc44895601ee97ae3df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 61
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ef00eb28d25f45bf30664f31a8c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d962687bb26be41a8d50a02112f806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 96
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e185ffd37de28b49ada89909fb7e99d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_41
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 116
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1a081d8dfa114da45c0ba75eb5b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 116
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08287560216534c88617239bdcee45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_43
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 116
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126e36e4a69c2d4abc325f8e170f852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf7cb2ffe05be14797e9e553ffbff22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 14
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b2dc57145d394fa008813dc305d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 34
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ebfb6135c3ed4091916d78af19d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 65
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8abc982ac8144e9f95696d13b6a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_48
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 65
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523598033d8a5e743aa0f0158658d18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_49
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 65
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b86aff7bc7ca24bb39fcc23012b5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbb2cce85ede74987dae30f51ef491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_51
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 9
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f01a010bdab744af374147ddb0cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_52
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 15
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ccb49af35e861419137a6b9f1b612b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_chrome_pigs_by_chinzapep-d5bnxdz_53
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 15
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5520a6cf39ad8e241a880292e4681bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91807dbfced6d5c4ba1fc054ab17f579
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
